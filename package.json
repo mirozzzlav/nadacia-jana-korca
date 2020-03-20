@@ -1,0 +1,22 @@
+{
+  "name": "nadacia-jana-korca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirozzzlav/nadacia-jana-korca.git"
+  },
+  "author": "Mirozlav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirozzzlav/nadacia-jana-korca/issues"
+  },
+  "homepage": "https://github.com/mirozzzlav/nadacia-jana-korca#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
